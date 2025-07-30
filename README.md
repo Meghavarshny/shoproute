@@ -1,4 +1,4 @@
-# ShopRoute - E-commerce Shopping Cart
+# E-commerce Shopping Cart
 
 A modern, responsive e-commerce shopping cart application built with React, TypeScript, and Tailwind CSS. The app fetches products from the Fake Store API and provides a seamless shopping experience with cart management functionality.
 
